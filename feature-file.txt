@@ -1,2 +1,2 @@
 This file is created in feature barnch. Happy learning!
-Adding a new sample line from feature branch.
+Adding a new sample line in development branch.
